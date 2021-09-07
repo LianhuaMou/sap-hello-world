@@ -1,2 +1,2 @@
 # sap-hello-world
-sap training
+sap training. the first step is changing the describe by readme-edits.
